@@ -25,3 +25,5 @@ Problem Category:-
 
 For the data and objective, it’s evident that this is a Binary Classification Problem in the Tabular Data format.
 
+# Rank-143/8100+
+
